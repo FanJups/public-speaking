@@ -4,6 +4,6 @@
 
 2- **OSDD: Open Source Driven Development**,  _JNation 2024 in Coimbra, June 4-5, 2024: links (speakerdeck, youtube, ....)_
 
-# Previuous Talks
+# Previous Talks
 
 ## 2024
