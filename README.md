@@ -1,7 +1,13 @@
-# Upcoming Talks
+# Thinking about speaking at
+_Note: Talks not confirmed yet_
 
+1- **OSDD: Open Source Driven Development**,  _[State Of Open Con 25 by Open UK](https://stateofopencon.com/) in Southbank London, 4-5 February, 2025_
+
+# Upcoming Talks
+_Note: Confirmed Talks_
 
 # Previous Talks
+_Note: Confirmed Talks done in the past_
 
 ## 2024
 
