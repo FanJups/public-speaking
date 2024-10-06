@@ -1,3 +1,5 @@
+[sessionize profile](https://sessionize.com/fanon-jupkwo)
+
 # Thinking about speaking at
 _Note: Talks not confirmed yet_
 
