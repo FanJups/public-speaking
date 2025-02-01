@@ -1,15 +1,15 @@
 # [Sessionize Profile](https://sessionize.com/fanon-jupkwo)
 
-# Thinking about speaking at
-_Note: Talks not confirmed yet_
+# Thinking about...
+_Note: Events not confirmed yet_
 
 1- **OSDD: Open Source Driven Development**,  _[State Of Open Con 25 by Open UK](https://stateofopencon.com/) in Southbank London, 4-5 February, 2025_
 
-# Upcoming Talks
-_Note: Confirmed Talks_
+# Upcoming
+_Note: Confirmed Events_
 
-# Previous Talks
-_Note: Confirmed Talks done in the past_
+# Previous
+_Note: Confirmed Events done in the past_
 
 ## 2024
 
