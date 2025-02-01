@@ -1,12 +1,18 @@
-# [Sessionize Profile](https://sessionize.com/fanon-jupkwo)
+# [My Sessionize Speaking Profile](https://sessionize.com/fanon-jupkwo)
 
 # Thinking about...
 _Note: Events not confirmed yet_
 
-1- **OSDD: Open Source Driven Development**,  _[State Of Open Con 25 by Open UK](https://stateofopencon.com/) in Southbank London, 4-5 February, 2025_
+1- **Mission JUnit Pioneer: To Jupiter And Beyond**,  _Internal Talk at [KLx, Crédit Agricole Group](https://www.klx.pt/)_
+
+2- **Mission JUnit Pioneer: To Jupiter And Beyond**,  _[Lisbon Java Users Group](https://www.linkedin.com/company/lisbon-jug)_
+
+3- **Mission JUnit Pioneer: To Jupiter And Beyond**,  _[JNation 2025](https://jnation.pt/) organized by [Coimbra JUG](https://www.meetup.com/Coimbra-JUG/) in Coimbra, May 27-28, 2025_
 
 # Upcoming
 _Note: Confirmed Events_
+
+1- _Volunteering at [State Of Open Con 25 by Open UK](https://stateofopencon.com/) in Southbank London, 4-5 February, 2025_
 
 # Previous
 _Note: Confirmed Events done in the past_
