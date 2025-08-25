@@ -1,6 +1,21 @@
 # [My Sessionize Speaking Profile](https://sessionize.com/fanon-jupkwo)
 
 # Thinking about...
+
+_Note: Ideas_
+
+1-  How to handle Caching in case of Web Deployment on Legacy Systems
+> At work, I was in charge of packaging apps to deploy in production. After deploying some customers got frontend issues (unresponsive UI...) because their browsers were still pointing to the old version. In fact their browsers kept old js files in cache then when trying to execute this old code, a comflict occured because the new code on server is different from the old one in browser cache. We faced issues like "Uncaught ReferenceError: 'variable' is not defined".
+> We were really sad because it takes hard work, time and patience. Seeing that some customers were happy with the new version and others were not, forced us to rollback.
+>
+> Given that, we are working on legacy systems, the question is how to make sure that customers browsers always take in consideration the new code deployed ? There are so many solutions but how to implement them in our legacy context ?
+> 
+> ChatGPT - Ahh, now it makes sense — you’re dealing with a frontend cache-busting problem in production 🚨
+
+> This is a very common issue: browsers cache your old JavaScript / CSS / assets aggressively, so after deployment, users’ browsers mix new HTML with old cached JS, causing errors like Uncaught ReferenceError: variable is not defined.
+
+> The right solution isn’t to try to “clear” users’ cache with JS hacks, but to deploy in a way that makes browsers fetch the new assets automatically.
+
 _Note: Events not confirmed yet_
 
 1-  Speaking -> **Mission JUnit Pioneer: To Jupiter And Beyond**,  _Internal Talk at [KLx, Crédit Agricole Group](https://www.klx.pt/)_
