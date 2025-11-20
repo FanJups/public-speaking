@@ -16,6 +16,8 @@ _Note: Ideas_
 
 > The right solution isn’t to try to “clear” users’ cache with JS hacks, but to deploy in a way that makes browsers fetch the new assets automatically.
 
+1-  Spring AI
+
 _Note: Events not confirmed yet_
 
 1-  Speaking -> **Mission JUnit Pioneer: To Jupiter And Beyond**,  _Internal Talk at [KLx, Crédit Agricole Group](https://www.klx.pt/)_
