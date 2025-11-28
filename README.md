@@ -17,6 +17,7 @@ _Note: Ideas_
 > The right solution isn’t to try to “clear” users’ cache with JS hacks, but to deploy in a way that makes browsers fetch the new assets automatically.
 
 2-  Spring AI
+3- From Maven 3 to 4 : Js Generator Use Case
 
 _Note: Events not confirmed yet_
 
