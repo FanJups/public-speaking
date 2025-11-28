@@ -19,6 +19,8 @@ _Note: Ideas_
 2-  Spring AI
 3- From Maven 3 to 4 : Js Generator Use Case
 
+    Maven The Future Of Java Build Automation https://youtu.be/2qiXn9vN5iE?si=DSTKuf6kxCmy1BTh
+
 _Note: Events not confirmed yet_
 
 1-  Speaking -> **Mission JUnit Pioneer: To Jupiter And Beyond**,  _Internal Talk at [KLx, Crédit Agricole Group](https://www.klx.pt/)_
