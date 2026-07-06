@@ -1,5 +1,9 @@
 # [My Sessionize Speaking Profile](https://sessionize.com/fanon-jupkwo)
 
+# Talk Preparation
+
+https://medium.com/@mala.gupta/what-makes-me-pick-your-conference-talk-55fcc8a03042
+
 # Thinking about...
 
 _Note: Ideas_
