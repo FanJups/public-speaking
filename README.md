@@ -25,6 +25,8 @@ _Note: Ideas_
 
 3- From Maven 3 to 4 : Js Generator Use Case
 
+4- Tesseract OCR
+
     Maven The Future Of Java Build Automation https://youtu.be/2qiXn9vN5iE?si=DSTKuf6kxCmy1BTh
 
 _Note: Events not confirmed yet_
