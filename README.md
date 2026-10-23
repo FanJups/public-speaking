@@ -22,12 +22,11 @@ _Note: Ideas_
 
 2-  Spring AI
 
-
 3- From Maven 3 to 4 : Js Generator Use Case
 
-4- Tesseract OCR
-
     Maven The Future Of Java Build Automation https://youtu.be/2qiXn9vN5iE?si=DSTKuf6kxCmy1BTh
+
+4- Tesseract OCR
 
 _Note: Events not confirmed yet_
 
